@@ -101,13 +101,14 @@ nav {
 /* Main page - 1 -> iPhone 14 Pro */
 
 .mainpage1 {
-    background-image: url("/assests/fotos/eyeway.marketing.jpg");
+   /* background-image: url("/assests/fotos/eyeway.marketing.jpg");
     background-size: cover; 
     background-position: center;
     height: 100vh;   
     justify-content: center;
     align-items: center;
     display: flex;
+    */
 }
 
 .mp1-text {
